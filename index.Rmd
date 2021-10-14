@@ -2,7 +2,7 @@
 title: "Computational Social Science"
 subtitle: "Understanding Human Behavior </br> in the Digital Society"
 author: "David Garcia <br> *Graz University of Technology *"
-date: "14.10.2021, Inaugural Lecture"
+date: "14.10.2021, Inaugural Lecture </br> Slides at: dgarcia.eu/IntroTUGraz"
 output:
   xaringan::moon_reader:
     lib_dir: libs 
